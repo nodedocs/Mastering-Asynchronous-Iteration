@@ -1,0 +1,17 @@
+{
+	"title": "Mastering Asynchronous Iteration (Video)",
+	"description": "Master asynhchronous flow control when iterating over collections",
+	"date": "Sun, 05 Aug 2012 18:07:44 GMT",
+	"tags": ["async", "iterate"],
+	"authors": [
+    { "name": "Pedro Teixeira",
+		  "email": "pedro.teixeira@gmail.com",
+		  "url": "https://github.com/pgte",
+		  "twitter": "http://twitter.com/pgte"
+    }
+	],
+	"difficulty": 4,
+  "categories": [
+    ["Asynchronous Programming"]
+  ]
+}
